@@ -3,8 +3,7 @@
 ### Research goals:
 Analysis of data from a network of distributed sensors placed on racks of horizontal hydroponic farming, including:
 - testing the correctness of the sensors throughout the container (identifying sensors that are faulty / not collecting data correctly, need additional calibration, etc.),  
-- development of a method of automatic detection of anomalies (based on data from one selected measurement point).
-
+- development of a method of automatic detection of anomalies - multivariate time series data.
 ### Metadata
 The dataset analyzed includes measurement data from a network of sensors: 
 - air temperature (T),
