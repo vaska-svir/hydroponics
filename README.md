@@ -1,10 +1,10 @@
-# Unsupervised multivariate anomaly detection for Hydroponic Farming 
+## Unsupervised multivariate anomaly detection for Hydroponic Farming 
 
-# Analysis of data from a network of distributed sensors placed on racks of horizontal hydroponic farming, including:
+### Analysis of data from a network of distributed sensors placed on racks of horizontal hydroponic farming, including:
 - testing the correctness of the sensors throughout the container (identifying sensors that are faulty / not collecting data correctly, need additional calibration, etc.),  
 - development of a method of automatic detection of anomalies occurring in the data for a future experiment in the desiccator (based on data from one selected measurement point).*.
 
-# The dataset analyzed includes measurement data from a network of sensors: 
+### The dataset analyzed includes measurement data from a network of sensors: 
 - air temperature (T),
 - air humidity (H), 
 - atmospheric pressure (p), 
